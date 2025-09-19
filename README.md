@@ -1,6 +1,7 @@
 # CMPUT 301 : Lab 3 Participation Exercise
-Full name: Tom Yang
-CCID: yunze7
+
+- **Full Name:** `Tom Yang`
+- **CCID:** `yunze7`
 
 ## References and Resources
 
